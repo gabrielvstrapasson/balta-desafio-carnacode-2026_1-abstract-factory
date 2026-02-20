@@ -1,4 +1,4 @@
-// DESAFIO: Sistema de Pagamentos Multi-Gateway
+/* DESAFIO: Sistema de Pagamentos Multi-Gateway
 // PROBLEMA: Uma plataforma de e-commerce precisa integrar com múltiplos gateways de pagamento
 // (PagSeguro, MercadoPago, Stripe) e cada gateway tem componentes específicos (Processador, Validador, Logger)
 // O código atual está muito acoplado e dificulta a adição de novos gateways
@@ -182,3 +182,4 @@ namespace DesignPatternChallenge
         }
     }
 }
+*/
